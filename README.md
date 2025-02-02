@@ -1,4 +1,4 @@
-# Desafio Técnico Leve: Prototipagem Mobile para App de Bem-Estar 🌿📱
+# Desafio Técnico: Prototipagem Mobile para App de Bem-Estar 🌿📱
 
 Olá, designers! Este desafio tem como objetivo avaliar suas habilidades em **UI/UX mobile**, de forma leve e prática. Crie um protótipo de um aplicativo que ajude os usuários a melhorar seu bem-estar com funcionalidades simples e intuitivas.
 
